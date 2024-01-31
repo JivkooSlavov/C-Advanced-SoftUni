@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxOfT", "BoxOfT\BoxOfT.csproj", "{BEE4A3C1-B85D-4244-B8B2-F19E6DA48478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericScale", "GenericScale\GenericScale.csproj", "{93A71029-09E6-4755-A9EF-081EC9FAF90A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE4A3C1-B85D-4244-B8B2-F19E6DA48478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE4A3C1-B85D-4244-B8B2-F19E6DA48478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE4A3C1-B85D-4244-B8B2-F19E6DA48478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE4A3C1-B85D-4244-B8B2-F19E6DA48478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A71029-09E6-4755-A9EF-081EC9FAF90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A71029-09E6-4755-A9EF-081EC9FAF90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A71029-09E6-4755-A9EF-081EC9FAF90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A71029-09E6-4755-A9EF-081EC9FAF90A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E22CBD58-02C9-44AB-9065-44C69C2E5D05}
+	EndGlobalSection
+EndGlobal
