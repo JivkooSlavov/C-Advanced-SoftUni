@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.OddLines", "1.OddLines\1.OddLines.csproj", "{79135165-F0D8-4285-8E69-6ABF3BAB3CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureEncrypt", "test\PictureEncrypt.csproj", "{2ADD7D9D-B2C7-49A0-952C-8392FB5F3518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79135165-F0D8-4285-8E69-6ABF3BAB3CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79135165-F0D8-4285-8E69-6ABF3BAB3CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79135165-F0D8-4285-8E69-6ABF3BAB3CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79135165-F0D8-4285-8E69-6ABF3BAB3CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ADD7D9D-B2C7-49A0-952C-8392FB5F3518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ADD7D9D-B2C7-49A0-952C-8392FB5F3518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ADD7D9D-B2C7-49A0-952C-8392FB5F3518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ADD7D9D-B2C7-49A0-952C-8392FB5F3518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27722FE6-3A12-4244-82E0-668CCD1F86B2}
+	EndGlobalSection
+EndGlobal
